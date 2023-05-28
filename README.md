@@ -70,10 +70,10 @@ The solutions that I added here are the one that I orginally came up with.
 50. [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/2c0a0c19508bce5a90d1bd3b9b1a85a41c354cd6/src/Easy/maximum_nesting_depth_of_the_parentheses.js)
 51. [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/2c0a0c19508bce5a90d1bd3b9b1a85a41c354cd6/src/Easy/reverse_words_in_a_string_iii.js)
 52. [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/2c0a0c19508bce5a90d1bd3b9b1a85a41c354cd6/src/Easy/calculate_delayed_arrival_time.js)
-53. [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/description/)  -[ My Solution]
+53. [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/description/)  -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/f03ee4a0fd1bf6cf29ecf299cacc49dd9d701bc9/src/Easy/lexicographically_smallest_palindrome.js)
 
 <br><br>
 ___
 # Medium Problems:
 
-1. [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/description/) -[ My Solution]
+1. [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/f03ee4a0fd1bf6cf29ecf299cacc49dd9d701bc9/src/medium/maximum_number_of_coins_you_can_get.js)
