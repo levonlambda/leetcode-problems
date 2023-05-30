@@ -71,6 +71,8 @@ The solutions that I added here are the one that I orginally came up with.
 51. [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/2c0a0c19508bce5a90d1bd3b9b1a85a41c354cd6/src/Easy/reverse_words_in_a_string_iii.js)
 52. [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/2c0a0c19508bce5a90d1bd3b9b1a85a41c354cd6/src/Easy/calculate_delayed_arrival_time.js)
 53. [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/description/)  -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/f03ee4a0fd1bf6cf29ecf299cacc49dd9d701bc9/src/Easy/lexicographically_smallest_palindrome.js)
+54. [Count Asterisks](https://leetcode.com/problems/count-asterisks/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/684ee266ec45f496a768a4b3b5e7d8814a76c257/src/Easy/count_asterisks.js)
+55. [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/684ee266ec45f496a768a4b3b5e7d8814a76c257/src/Easy/minimum_number_of_moves_to_seat_everyone.js)
 
 <br><br>
 ___
