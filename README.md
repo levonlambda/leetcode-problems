@@ -74,9 +74,12 @@ The solutions that I added here are the one that I orginally came up with.
 54. [Count Asterisks](https://leetcode.com/problems/count-asterisks/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/684ee266ec45f496a768a4b3b5e7d8814a76c257/src/Easy/count_asterisks.js)
 55. [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/684ee266ec45f496a768a4b3b5e7d8814a76c257/src/Easy/minimum_number_of_moves_to_seat_everyone.js)
 56. [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/cd5f7dfc407dba3b30a117e8f41c8130cf3e7ed5/src/Easy/minimum_bit_flips_to_convert_number.js)
+57. [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/a650ca4a043aa2b7ca9d02fededa7ebb90ceae4b/src/Easy/sign_of_the_product_of_an_array.js)
 
 <br><br>
 ___
 # Medium Problems:
 
 1. [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/f03ee4a0fd1bf6cf29ecf299cacc49dd9d701bc9/src/medium/maximum_number_of_coins_you_can_get.js)
+2. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/a650ca4a043aa2b7ca9d02fededa7ebb90ceae4b/src/medium/generate_parentheses.js)
+3. [Reversed Integer](https://leetcode.com/problems/reverse-integer/description/)  -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/a650ca4a043aa2b7ca9d02fededa7ebb90ceae4b/src/medium/reversed_integer.js)
