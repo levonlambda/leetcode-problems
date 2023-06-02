@@ -76,6 +76,7 @@ The solutions that I added here are the one that I orginally came up with.
 56. [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/cd5f7dfc407dba3b30a117e8f41c8130cf3e7ed5/src/Easy/minimum_bit_flips_to_convert_number.js)
 57. [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/a650ca4a043aa2b7ca9d02fededa7ebb90ceae4b/src/Easy/sign_of_the_product_of_an_array.js)
 58. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/29af17907130cbc91fa4195dfbacbd198f2f384c/src/Easy/contains_duplicate.js)
+59. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/43fcea996243ecf1932450524f5a6a6679fb9abe/src/Easy/valid_parentheses.js)
 
 <br><br>
 ___
@@ -84,3 +85,4 @@ ___
 1. [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/f03ee4a0fd1bf6cf29ecf299cacc49dd9d701bc9/src/medium/maximum_number_of_coins_you_can_get.js)
 2. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/a650ca4a043aa2b7ca9d02fededa7ebb90ceae4b/src/medium/generate_parentheses.js)
 3. [Reversed Integer](https://leetcode.com/problems/reverse-integer/description/)  -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/a650ca4a043aa2b7ca9d02fededa7ebb90ceae4b/src/medium/reversed_integer.js)
+4. [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/43fcea996243ecf1932450524f5a6a6679fb9abe/src/medium/rearrange_words_in_a_sentence.js)
