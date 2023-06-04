@@ -78,9 +78,10 @@ The solutions that I added here are the one that I orginally came up with.
 58. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/29af17907130cbc91fa4195dfbacbd198f2f384c/src/Easy/contains_duplicate.js)
 59. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/43fcea996243ecf1932450524f5a6a6679fb9abe/src/Easy/valid_parentheses.js)
 60. [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/7ec59852e6bbc7f63f368aa6fc6d960d4de6d9ba/src/Easy/valid_anagram.js)
-61. [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/) -[ My Solution]()
+61. [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/d4e9757475e29d91018398f6c91681f4029ee473/src/Easy/replace_elements_with_greatest_element_on_right_side.js)
 62. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/3357c4b888be621531df497a1a90ba605eb863f9/src/Easy/length_of_last_word.js)
 63. [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/3357c4b888be621531df497a1a90ba605eb863f9/src/Easy/is_subsequence.js)
+64. [Unique email address](https://leetcode.com/problems/unique-email-addresses/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/0716f1b0d057809eb878d378fc4b1d020fe14561/src/Easy/unique_email_address.js)
 
 <br><br>
 ___
@@ -92,4 +93,6 @@ ___
 4. [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/43fcea996243ecf1932450524f5a6a6679fb9abe/src/medium/rearrange_words_in_a_sentence.js)
 5. [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/7ec59852e6bbc7f63f368aa6fc6d960d4de6d9ba/src/medium/group_anagrams.js)
 6. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/7ec59852e6bbc7f63f368aa6fc6d960d4de6d9ba/src/medium/top_k_frequent_elements.js)
-7. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)(https://github.com/levonlambda/leetcode-problems/blob/3357c4b888be621531df497a1a90ba605eb863f9/src/medium/longest_consecutive_sequence.js)
+7. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/3357c4b888be621531df497a1a90ba605eb863f9/src/medium/longest_consecutive_sequence.js)
+8. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/0716f1b0d057809eb878d378fc4b1d020fe14561/src/medium/find_all_anagrams_in_a_string.js)
+9. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/0716f1b0d057809eb878d378fc4b1d020fe14561/src/medium/valid_sudoku.js)
