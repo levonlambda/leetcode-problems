@@ -82,6 +82,8 @@ The solutions that I added here are the one that I orginally came up with.
 62. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/3357c4b888be621531df497a1a90ba605eb863f9/src/Easy/length_of_last_word.js)
 63. [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/3357c4b888be621531df497a1a90ba605eb863f9/src/Easy/is_subsequence.js)
 64. [Unique email address](https://leetcode.com/problems/unique-email-addresses/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/0716f1b0d057809eb878d378fc4b1d020fe14561/src/Easy/unique_email_address.js)
+65. [Plus One](https://leetcode.com/problems/plus-one/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/a1553696b111aea220b8d39829d5c5be6f917dbc/src/Easy/plus_one.js)
+66. [Word Pattern](https://leetcode.com/problems/word-pattern/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/a1553696b111aea220b8d39829d5c5be6f917dbc/src/Easy/word_pattern.js)
 
 <br><br>
 ___
