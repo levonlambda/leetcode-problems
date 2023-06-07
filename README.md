@@ -84,6 +84,8 @@ The solutions that I added here are the one that I orginally came up with.
 64. [Unique email address](https://leetcode.com/problems/unique-email-addresses/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/0716f1b0d057809eb878d378fc4b1d020fe14561/src/Easy/unique_email_address.js)
 65. [Plus One](https://leetcode.com/problems/plus-one/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/a1553696b111aea220b8d39829d5c5be6f917dbc/src/Easy/plus_one.js)
 66. [Word Pattern](https://leetcode.com/problems/word-pattern/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/a1553696b111aea220b8d39829d5c5be6f917dbc/src/Easy/word_pattern.js)
+67. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)  -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/d6db1b1f6f1b2fafb60d31bdb43ae59bb359d7b3/src/Easy/climbing_stairs.js)
+68. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/d6db1b1f6f1b2fafb60d31bdb43ae59bb359d7b3/src/Easy/min_cost_climbing_stairs.js)
 
 <br><br>
 ___
