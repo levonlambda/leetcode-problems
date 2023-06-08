@@ -86,6 +86,7 @@ The solutions that I added here are the one that I orginally came up with.
 66. [Word Pattern](https://leetcode.com/problems/word-pattern/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/a1553696b111aea220b8d39829d5c5be6f917dbc/src/Easy/word_pattern.js)
 67. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)  -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/d6db1b1f6f1b2fafb60d31bdb43ae59bb359d7b3/src/Easy/climbing_stairs.js)
 68. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/d6db1b1f6f1b2fafb60d31bdb43ae59bb359d7b3/src/Easy/min_cost_climbing_stairs.js)
+69. [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/995a4068f35af4698c397d7df6d9a39f24ab95bd/src/Easy/n-th_tribonacci_number.js)
 
 <br><br>
 ___
@@ -100,3 +101,5 @@ ___
 7. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/3357c4b888be621531df497a1a90ba605eb863f9/src/medium/longest_consecutive_sequence.js)
 8. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/0716f1b0d057809eb878d378fc4b1d020fe14561/src/medium/find_all_anagrams_in_a_string.js)
 9. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/0716f1b0d057809eb878d378fc4b1d020fe14561/src/medium/valid_sudoku.js)
+10. [House Robbers](https://leetcode.com/problems/house-robber/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/995a4068f35af4698c397d7df6d9a39f24ab95bd/src/medium/house_robber.js)
+11. [House Robbers II](https://leetcode.com/problems/house-robber-ii/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/995a4068f35af4698c397d7df6d9a39f24ab95bd/src/medium/house_robbers_ii.js)
