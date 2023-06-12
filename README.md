@@ -87,6 +87,8 @@ The solutions that I added here are the one that I orginally came up with.
 67. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)  -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/d6db1b1f6f1b2fafb60d31bdb43ae59bb359d7b3/src/Easy/climbing_stairs.js)
 68. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/d6db1b1f6f1b2fafb60d31bdb43ae59bb359d7b3/src/Easy/min_cost_climbing_stairs.js)
 69. [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/995a4068f35af4698c397d7df6d9a39f24ab95bd/src/Easy/n-th_tribonacci_number.js)
+70. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/2972c97f753a861725487909621b65bb40d8bea0/src/Easy/find_smallest_letter_greater_than_target.js)
+71. [Reverse String](https://leetcode.com/problems/reverse-string/description/) -[ My Solution]
 
 <br><br>
 ___
@@ -103,3 +105,5 @@ ___
 9. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/0716f1b0d057809eb878d378fc4b1d020fe14561/src/medium/valid_sudoku.js)
 10. [House Robbers](https://leetcode.com/problems/house-robber/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/995a4068f35af4698c397d7df6d9a39f24ab95bd/src/medium/house_robber.js)
 11. [House Robbers II](https://leetcode.com/problems/house-robber-ii/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/995a4068f35af4698c397d7df6d9a39f24ab95bd/src/medium/house_robbers_ii.js)
+12. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
+13. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
