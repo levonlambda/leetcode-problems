@@ -1,0 +1,95 @@
+// Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+
+// Implement the MinStack class:
+
+// MinStack() initializes the stack object.
+// void push(int val) pushes the element val onto the stack.
+// void pop() removes the element on the top of the stack.
+// int top() gets the top element of the stack.
+// int getMin() retrieves the minimum element in the stack.
+// You must implement a solution with O(1) time complexity for each function.
+
+ 
+
+// Example 1:
+
+// Input
+// ["MinStack","push","push","push","getMin","pop","top","getMin"]
+// [[],[-2],[0],[-3],[],[],[],[]]
+
+// Output
+// [null,null,null,null,-3,null,0,-2]
+
+// Explanation
+// MinStack minStack = new MinStack();
+// minStack.push(-2);
+// minStack.push(0);
+// minStack.push(-3);
+// minStack.getMin(); // return -3
+// minStack.pop();
+// minStack.top();    // return 0
+// minStack.getMin(); // return -2
+ 
+
+// Constraints:
+
+// -231 <= val <= 231 - 1
+// Methods pop, top and getMin operations will always be called on non-empty stacks.
+// At most 3 * 104 calls will be made to push, pop, top, and getMin.
+
+
+//The key to this problem is to implement 2 sets of stack, one to keep the data and another to keep track of the minimum amount
+let stack
+let min
+
+var MinStack = function() {
+    stack = []
+    min = []
+};
+
+/** 
+ * @param {number} val
+ * @return {void}
+ */
+MinStack.prototype.push = function(val) {
+    //if our stack is empty, set the current val as the minimum and push it in our min stack
+    if(stack.length === 0) {
+        min.push(val)
+    }
+    //if our stack is not empty, we compare val with the top of our min stack, if val is lesser or equal, push it in our min stack
+    else {
+       if(min[min.length-1] >= val) {
+           min.push(val)
+       } 
+    }
+    stack.push(val)
+};
+
+/**
+ * @return {void}
+ */
+MinStack.prototype.pop = function() {
+    const current = stack.pop()
+    //compare if the current value of our pop is equal to the top of our min stack, if it is pop the min stack as well
+    if(current === min[min.length -1]) {
+        min.pop(current)
+    }
+
+    return current
+};
+
+/**
+ * @return {number}
+ */
+MinStack.prototype.top = function() {
+    return stack[stack.length-1]
+};
+
+/**
+ * @return {number}
+ */
+MinStack.prototype.getMin = function() {
+    //to get the min value, simply return the topmost part of our min stack
+    return min[min.length-1]
+};
+
