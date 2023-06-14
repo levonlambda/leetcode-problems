@@ -110,3 +110,6 @@ ___
 13. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/fc587b061daa5496f58ea7b0f590a11a567ad115/src/medium/two_sum_input_array_is_sorted.js)
 14. [Min Stack](https://leetcode.com/problems/min-stack/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/c98f6709c886eeba956f024062d4eee3eff0d46e/src/medium/min_stack)
 15. [Sort Colors](https://leetcode.com/problems/sort-colors/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/c98f6709c886eeba956f024062d4eee3eff0d46e/src/medium/sort_colors.js)
+16. [Validate Stack Sequence](https://leetcode.com/problems/validate-stack-sequences/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/f8b4df62400bc1f32d2484cbc9e4d9c8a77d763c/src/medium/validate%20_stack_sequence.js)
+17. [Coin Change](https://leetcode.com/problems/coin-change/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/f8b4df62400bc1f32d2484cbc9e4d9c8a77d763c/src/medium/coin_change.js)
+18. [Word Break](https://leetcode.com/problems/word-break/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/f8b4df62400bc1f32d2484cbc9e4d9c8a77d763c/src/medium/word_break.js)
