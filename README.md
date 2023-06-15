@@ -90,6 +90,7 @@ The solutions that I added here are the one that I orginally came up with.
 70. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/2972c97f753a861725487909621b65bb40d8bea0/src/Easy/find_smallest_letter_greater_than_target.js)
 71. [Reverse String](https://leetcode.com/problems/reverse-string/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/fc587b061daa5496f58ea7b0f590a11a567ad115/src/Easy/reverse_string.js)
 72. [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/c98f6709c886eeba956f024062d4eee3eff0d46e/src/Easy/find_the_difference_of_two_arrays.js)
+73. [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) -[ My Solution](https://github.com/levonlambda/leetcode-problems/blob/627874f1b91b8d1cb1fff3a7f816c2e27cca55ae/src/Easy/can_place_flowers.js)
 
 <br><br>
 ___
